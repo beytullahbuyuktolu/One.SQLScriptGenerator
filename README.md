@@ -36,7 +36,7 @@ A powerful Windows Forms application for generating SQL scripts from database ta
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/beytullahbuyuktolu/One.SQLScriptGenerator
 ```
 
 2. Open the solution in Visual Studio
